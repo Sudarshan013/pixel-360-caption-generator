@@ -24,3 +24,14 @@ img {
   justify-content: space-around;
   flex-wrap: wrap;
 }
+
+#caption{
+  white-space: pre-line;
+}
+
+#generate-btn-cta{
+  padding: 4px 8px;
+  background: white;
+  border-radius: 4px;
+  margin: 20px;
+}
